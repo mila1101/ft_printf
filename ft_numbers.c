@@ -6,7 +6,7 @@
 /*   By: msoklova <msoklova@student.42heilbronn.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/03/20 15:06:25 by msoklova          #+#    #+#             */
-/*   Updated: 2024/03/27 16:01:46 by msoklova         ###   ########.fr       */
+/*   Updated: 2024/03/27 18:44:14 by msoklova         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -90,9 +90,3 @@ int	ft_puthex_up(unsigned long n, int *count)
 	}
 	return (1);
 }
-
-//void	ft_putpointer(unsigned long long n)
-//{
-//	write(1, "0x", 2);
-//	ft_puthex_low(n);
-//}
